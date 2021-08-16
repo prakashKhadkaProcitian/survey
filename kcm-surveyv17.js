@@ -4,5 +4,7 @@
 const node = document.createElement('kcm-survey');
 document.getElementsByTagName('body')[0].appendChild(node);
 const node1 = document.createElement('base');
-node1.href = '/'
+node1.href = '/';
 document.getElementsByTagName('head')[0].appendChild(node1);
+
+

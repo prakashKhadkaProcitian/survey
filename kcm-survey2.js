@@ -7,3 +7,6 @@ document.getElementsByTagName('head')[0].appendChild(node1);
 
 console.log(window);
 console.log(window.parent);
+console.log(window);
+console.log(window.parent);
+
